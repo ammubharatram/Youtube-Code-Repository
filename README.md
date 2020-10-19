@@ -24,7 +24,7 @@ Video for this is at https://www.youtube.com/watch?v=RfNxXlO6BiA&t=2s
 
 <h2> CNN.py </h2>
 
-Simple implementation of a convolutional neural network in TensorFlow, version 1.5. <br>
+Simple implementation of a convolutional neural network in TensorFlow, version 1.15.0. <br>
 Video tutorial on this code can be found here https://youtu.be/azFyHS0odcM <br>
 Achieves accuracy of 98% after 10 epochs of training <br>
 Requires data from http://yann.lecun.com/exdb/mnist/ <br>
